@@ -1,0 +1,1 @@
+# go_7_go_decorator
